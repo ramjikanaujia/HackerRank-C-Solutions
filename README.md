@@ -1,4 +1,4 @@
-# HackerRank Ruby soutions
+# HackerRank C soutions
 
 <p align="center">  
 	<br>
